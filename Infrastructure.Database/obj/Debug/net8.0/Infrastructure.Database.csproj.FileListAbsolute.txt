@@ -1,0 +1,15 @@
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\bin\Debug\net8.0\Infrastructure.Database.deps.json
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\bin\Debug\net8.0\Infrastructure.Database.dll
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\bin\Debug\net8.0\Infrastructure.Database.pdb
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\bin\Debug\net8.0\Domain.dll
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\bin\Debug\net8.0\Domain.pdb
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\Infrastructure.Database.csproj.AssemblyReference.cache
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\Infrastructure.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\Infrastructure.Database.AssemblyInfoInputs.cache
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\Infrastructure.Database.AssemblyInfo.cs
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\Infrastructure.Database.csproj.CoreCompileInputs.cache
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\Infrastr.BF6F5FBF.Up2Date
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\Infrastructure.Database.dll
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\refint\Infrastructure.Database.dll
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\Infrastructure.Database.pdb
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\ref\Infrastructure.Database.dll
