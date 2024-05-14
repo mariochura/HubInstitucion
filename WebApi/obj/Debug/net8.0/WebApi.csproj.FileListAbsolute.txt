@@ -38,3 +38,4 @@ D:\Proyectos_UAB\HubInstitution\HubInstitucion\WebApi\obj\Debug\net8.0\refint\We
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\WebApi\obj\Debug\net8.0\WebApi.pdb
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json

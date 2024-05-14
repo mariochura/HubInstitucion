@@ -17,3 +17,4 @@ D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.DependencyInjectio
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.DependencyInjection\obj\Debug\net8.0\refint\Infrastructure.DependencyInjection.dll
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.DependencyInjection\obj\Debug\net8.0\Infrastructure.DependencyInjection.pdb
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.DependencyInjection\obj\Debug\net8.0\ref\Infrastructure.DependencyInjection.dll
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.DependencyInjection\obj\Debug\net8.0\Infrastructure.DependencyInjection.sourcelink.json

@@ -13,3 +13,4 @@ D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure\obj\Debug\net8.0\I
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
