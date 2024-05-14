@@ -16,10 +16,12 @@ namespace WebApi
 
             builder.Services.AddControllers();
             
+            //builder.Services.AddDbContext<HubInstitutionContext>(options =>
+              //  options.UseInMemoryDatabase("DBMemory"));
             builder.Services.AddDbContext<HubInstitutionContext>(options =>
-                options.UseInMemoryDatabase("DBMemory"));
-
-
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+                    
+            
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

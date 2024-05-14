@@ -12,7 +12,7 @@ namespace Domain.Entities
         public string Name { get; set; } = "";
         public string Nit { get; set; }
         public string Logo { get; set; }
-        public string Date_Creation { get; set; }
+        public DateTime Date_Creation { get; set; }
         public string Municipality { get; set; }= "";
         public string Acronym { get; set; }= "";
 

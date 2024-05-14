@@ -14,9 +14,19 @@ public class HubInstitutionContext : DbContext
     
     protected override void OnModelCreating(ModelBuilder builder)
     {
-        builder.Entity<OrganizationEntity>()
-            .Property(p => p.Name)
-            .HasMaxLength(100);
+        builder.Entity<OrganizationEntity>(entity =>
+            {
+                entity.HasKey(e=>e.Id);
+                entity.Property(p => p.Name)
+                    .HasMaxLength(100);
+                entity.Property(p => p.Nit).HasMaxLength(15);
+                entity.Property(p => p.Logo).HasMaxLength(100);
+                entity.Property(p => p.Date_Creation).HasMaxLength(12);
+                entity.Property(p => p.Municipality).HasMaxLength(25);
+                entity.Property(p => p.Acronym).HasMaxLength(10);
+            }
+            );
+        
 
         base.OnModelCreating(builder);
     }

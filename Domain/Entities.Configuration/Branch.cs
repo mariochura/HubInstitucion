@@ -19,7 +19,7 @@ namespace Domain.Entities
         public string Phone { get; set; }
         public string Email { get; set; }
         public string Url { get; set; }
-        public string Date_Creation { get; set; }
+        public DateTime Date_Creation { get; set; } 
         public int Address_Id { get; set; }
         public Address Address { get; set; }
         public int Organization_Id { get; set; }

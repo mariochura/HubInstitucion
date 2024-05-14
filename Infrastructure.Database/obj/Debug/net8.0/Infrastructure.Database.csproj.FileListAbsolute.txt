@@ -14,3 +14,5 @@ D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\Infrastructure.Database.pdb
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\ref\Infrastructure.Database.dll
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\Infrastructure.Database.sourcelink.json
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\bin\Debug\net8.0\Infrastructure.Database.runtimeconfig.json
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Infrastructure.Database\obj\Debug\net8.0\Infrastructure.Database.genruntimeconfig.cache
