@@ -13,3 +13,4 @@ D:\Proyectos_UAB\HubInstitution\HubInstitucion\Application\obj\Debug\net8.0\Appl
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Application\obj\Debug\net8.0\refint\Application.dll
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Application\obj\Debug\net8.0\Application.pdb
 D:\Proyectos_UAB\HubInstitution\HubInstitucion\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Proyectos_UAB\HubInstitution\HubInstitucion\Application\obj\Debug\net8.0\Application.sourcelink.json

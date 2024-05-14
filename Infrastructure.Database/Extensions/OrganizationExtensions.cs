@@ -9,7 +9,7 @@ public static class OrganizationExtensions
     {
         return new OrganizationEntity
         {
-            Name = dto.name
+            Name = dto.Name
         };
     }
 }

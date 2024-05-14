@@ -10,6 +10,6 @@ public class OrganizationEntity
 
     public Organization toDto()
     {
-        return new Organization { name = this.Name };
+        return new Organization { Name = this.Name };
     }
 }
