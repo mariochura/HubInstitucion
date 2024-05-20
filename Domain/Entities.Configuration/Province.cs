@@ -6,4 +6,6 @@ public class Province
     public string Name { get; set; } = "";
     public int CountryId { get; set; }  // FK de Country
     public Country Country { get; set; }  // Objeto de navegación a Country
+    public ICollection<Address> Addresses { get; set; }
+    
 }

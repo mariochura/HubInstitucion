@@ -1,4 +1,6 @@
-﻿namespace Infrastructure.Database.DBEntities;
+﻿using System.Runtime.CompilerServices;
+
+namespace Infrastructure.Database.DBEntities;
 
 public class BranchEntity
 {
@@ -6,3 +8,5 @@ public class BranchEntity
     public string Name { get; set; } = "";
     public int OrganizationId { get; set; }
 }
+
+
